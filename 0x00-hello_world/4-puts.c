@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
  * main - A program that prints a line with function
- * Return: 0 (Success)
+ *
+ * Return: Return 0 for success
  */
 int main(void)
 {
-puts(""Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"Programming is like building a multilingual puzzle");
+	return (0)
 }
